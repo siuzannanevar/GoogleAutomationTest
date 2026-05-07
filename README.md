@@ -24,8 +24,3 @@ The automated test follows these steps:
 * **Smart Waits**: Uses `WebDriverWait` (Explicit Waits) to ensure elements are interactable before any action.
 * **JavaScript Execution**: Uses `JavascriptExecutor` to click elements that are often intercepted by Google's transition animations.
 * **Dynamic Locators**: Handles dynamic field IDs by using flexible XPath and CSS selectors (e.g., finding inputs by name or index).
-
-## 🛠️ How to Run
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
